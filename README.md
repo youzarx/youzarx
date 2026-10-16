@@ -73,7 +73,7 @@ Explore my repositories to see what I'm building.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/youzarx)">
+<a href="https://www.linkedin.com/in/youzarx">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
