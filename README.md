@@ -6,7 +6,7 @@
 
 Building ideas into real-world digital products.
 
-<img src="![Youssef HANIN](https://capsula-beta.vercel.app/api?type=waving&height=300&color=gradient&theme=tokyonight&gradientAngle=80&section=header&text=Youssef+HANIN&fontSize=70&fontAlign=50&fontAlignY=50&desc=AI+Student+%7C+Software+Engineering+%7C+Web+Development&descSize=20&descAlign=50&descAlignY=62)" />
+![Youssef HANIN](https://capsula-beta.vercel.app/api?type=waving&height=300&color=gradient&theme=tokyonight&gradientAngle=80&section=header&text=Youssef+HANIN&fontSize=70&fontAlign=50&fontAlignY=50&desc=AI+Student+%7C+Software+Engineering+%7C+Web+Development&descSize=20&descAlign=50&descAlignY=62)
 
 </div>
 
